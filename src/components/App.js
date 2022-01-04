@@ -36,9 +36,6 @@ function App() {
     // setTaskList(newList)
   }
 
-function newFunction(){
-
-}
 
 
   return (
